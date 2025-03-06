@@ -11,7 +11,9 @@ const App = () => {
   // Function to fetch IoT data
   const fetchIoTData = async () => {
     try {
-      const response = await axios.get("/iot-data.json"); // Fetching JSON file
+      
+      const response = await axios.get(process.env.PUBLIC_URL + "/iot-data.json");
+
       setIotData(response.data);
       setLoading(false);
     } catch (error) {
