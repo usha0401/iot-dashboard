@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iot-dashboard/static/css/main.7b37cba7.css",
-    "main.js": "/iot-dashboard/static/js/main.3fd15d4d.js",
+    "main.js": "/iot-dashboard/static/js/main.2d00a24f.js",
     "static/js/453.a1694f6a.chunk.js": "/iot-dashboard/static/js/453.a1694f6a.chunk.js",
     "index.html": "/iot-dashboard/index.html",
     "main.7b37cba7.css.map": "/iot-dashboard/static/css/main.7b37cba7.css.map",
-    "main.3fd15d4d.js.map": "/iot-dashboard/static/js/main.3fd15d4d.js.map",
+    "main.2d00a24f.js.map": "/iot-dashboard/static/js/main.2d00a24f.js.map",
     "453.a1694f6a.chunk.js.map": "/iot-dashboard/static/js/453.a1694f6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b37cba7.css",
-    "static/js/main.3fd15d4d.js"
+    "static/js/main.2d00a24f.js"
   ]
 }
